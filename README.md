@@ -13,3 +13,4 @@ Here is the changelog :
         ->Implimenting models using a predefined csv file
         ->Storing the model as a file
         ->Using the stored file to generate outcomes
+    V 0.0 20/01
